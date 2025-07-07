@@ -1,0 +1,52 @@
+=============================================================
+wrinkled -> amassadas/enrugadas
+milenar -> ancient  ou legendary 
+=============================================================
+
+
+
+
+You’re in a rush and your clothes are all wrinkled.
+What do you do?
+-----
+Would you get them ironed, or just wear them like that?
+1 - Not even in[0] a normal day I would do it[1]. But if I have[2] someone to get my clothes ironed it would be aweasome[3]. Saddly[4], most of the days[5] I don't have enough time for it, even if the clothes get really beautiful to a point they start looking like new.[6]
+-----
+
+
+[0] ON
+[1] Em frases com inicio negativo, precisa inverter -> ...day would I do it.
+[2] HAD -> hipotético == passado
+[3] awesome
+[4] Sadly (um "d" só)
+[5] most days -> mais natural
+[6] v1 - even if the clothes get really beautiful to a point they start looking like new
+    v2 - even if ironed clothes look so good they almost seem brand new
+
+Not even on a normal day would I do it. But if I had someone to get my clothes ironed, it would be awesome. Sadly, most days I don’t have enough time for it — even if ironed clothes look so good they almost seem brand new.
+
+
+
+
+=============================================================
+
+Alright, now imagine this:
+
+Your phone falls in the toilet 🚽.
+You’re freaking out.
+What’s the first thing you do?
+And do you try to get it fixed, or just buy a new one?
+
+2- Hollyshit[1] man, not even mention it[2]. But if it happens[3], I would try using a milenar[4] brazillian technique: put the phone in the rise[RICE] and hope it to[6] turn on again. If it doesn't work, I will need to get my phone repaired
+
+[1] holy shit
+[2] don’t even mention it! (mais natural)
+[3] happened -> é passado + would (situação hipotética)
+[4] ancient  ou legendary (mais cômico)
+[6] após hope não se usa to. hope it turns on
+
+Holy shit, man — don’t even mention it!
+But if it happened, I’d try using an ancient Brazilian technique: putting the phone in rice and hoping it turns on again.
+If it doesn’t work, I’ll need to get my phone repaired.
+
+
